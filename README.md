@@ -10,3 +10,6 @@ You will also find the pdf of my technical report which succinctly summarizes an
 
 ## Build Steps
 The jump-start code should be able to run as is. The only obstacle you may encounter is the sheer amount of Python libraries and packages being used for the models. For me this was not an issue, but it may cause space and memory issues if you download a lot of software onto your computer. To combat this, it may be helpful to download and install Docker Desktop. Docker is able to hold all of the packages required to do the work for this assignment in its own container without taking up space on your personal computer. 
+
+## AI Disclaimer
+There was only one instance of AI Chatbot assistance for this project. I used ChatGPT to help me interpret a specific portion of my confusion matrix. I was unsure of what it could mean when the number of True Positives and True Negatives is almost exactly the same. ChatGPT said that anytime there is a relative balance between the measures, it can mean that there is no large directional bias (up or down) when it comes to measuring predicted daily returns. 
